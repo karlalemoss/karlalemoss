@@ -12,7 +12,7 @@
 
 ##
 <div
-  <i class="devicon-cypressio-plain-wordmark colored"></i>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line-wordmark.svg" />
 </div>
 
 
