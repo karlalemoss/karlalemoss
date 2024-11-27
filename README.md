@@ -1,6 +1,6 @@
 ## Olá! Eu Sou a Karla Lemos 👋
 - 🔭 Hoje trabalho como Quality Assurance
-- 🌱 Estudando Typescript/Java/JS
+- 🌱 Estou aprendendo mais sobre Typescript/Java/JS
 - 😄Ela/Dela
 
   
